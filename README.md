@@ -1,2 +1,2 @@
 # Resources
-Click a file above to view related information
+Click wiki to find info
